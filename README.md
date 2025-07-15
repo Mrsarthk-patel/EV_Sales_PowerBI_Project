@@ -29,21 +29,31 @@ CAGR: 93.91% — highlights strong market growth
 Revenue: ₹162.6B (2W) and ₹229.4B (4W)
 
 📈 Growth Over Time -
+
 Quarterly decline from peak sales of 211K (Q4 2023) to 5K (Q1 2022), indicating older sales figures are much lower, showing recent growth.
 
 🏆 Top Makers by Sales Volume -
+
 OLA Electric leads with 0.49M EVs sold (~24% share)
+
 Followed by TVS, Ather, Hero Electric, and Ampere
 
 📊 CAGR by Maker -
+
 BMW India leads with 1140.97% CAGR (likely from a low base)
+
 Volvo and BYD India also showing triple-digit growth
 
+
 🧾 Monthly Trends -
+
 Peak months: Oct–Jan
+
 Slow months: June, July, and early quarters in earlier years
 
 📌 Vehicle Category Split -
+
 2-Wheelers dominate: 92.6%
+
 4-Wheelers: only 7.4% — strong tilt in consumer behavior
 
