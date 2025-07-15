@@ -8,11 +8,13 @@ This Power BI dashboard presents a comprehensive analysis of Electric Vehicle (E
 
 - Dashboard Image: (https://github.com/Mrsarthk-patel/EV_Sales_PowerBI_Project/blob/main/Dashboard_image.png)
 
-**Data:** 
-1. https://github.com/Mrsarthk-patel/EV_Sales_PowerBI_Project/blob/main/EV%20Sales%20By%20Makers.xlsx
-2. https://github.com/Mrsarthk-patel/EV_Sales_PowerBI_Project/blob/main/EV%20Sales%20By%20State.xlsx
-3. https://github.com/Mrsarthk-patel/EV_Sales_PowerBI_Project/blob/main/Charging%20Units.xlsx
-4. https://github.com/Mrsarthk-patel/EV_Sales_PowerBI_Project/blob/main/Dates.xlsx
+
+### 📄 Raw Data Files:
+- [EV Sales By Makers](https://github.com/Mrsarthk-patel/EV_Sales_PowerBI_Project/blob/main/EV%20Sales%20By%20Makers.xlsx)  
+- [EV Sales By State](https://github.com/Mrsarthk-patel/EV_Sales_PowerBI_Project/blob/main/EV%20Sales%20By%20State.xlsx)  
+- [Charging Units](https://github.com/Mrsarthk-patel/EV_Sales_PowerBI_Project/blob/main/Charging%20Units.xlsx)  
+- [Dates Table](https://github.com/Mrsarthk-patel/EV_Sales_PowerBI_Project/blob/main/Dates.xlsx)  
+
 
 🎯 **Objectives**
 
