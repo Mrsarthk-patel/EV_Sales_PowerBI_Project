@@ -5,6 +5,7 @@ This Power BI dashboard presents a comprehensive analysis of Electric Vehicle (E
 **DAX Measures:** https://github.com/Mrsarthk-patel/EV_Sales_PowerBI_Project/blob/main/Dax%20Notes.txt
 
 **Dashboard file:** https://github.com/Mrsarthk-patel/EV_Sales_PowerBI_Project/blob/main/Electric-Vehicle_Sales_Advance_Analysis.pbix
+
 Dashboard Image: https://github.com/Mrsarthk-patel/EV_Sales_PowerBI_Project/blob/main/Dashboard_image.png
 
 **Data:** 
