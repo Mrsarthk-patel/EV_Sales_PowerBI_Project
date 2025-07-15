@@ -1,12 +1,12 @@
-# EV_Sales_PowerBI_Project
+## EV_Sales_PowerBI_Project
 
 This Power BI dashboard presents a comprehensive analysis of Electric Vehicle (EV) sales across different makers and time period of 2022, 2023 & 2024. It includes sales volume, revenue distribution between 2-wheelers and 4-wheelers, market share, growth trends, and CAGR by manufacturer. The purpose is to provide insights into India’s rapidly evolving EV industry using interactive visuals and DAX calculations.
 
-[DAX Measures] (https://github.com/Mrsarthk-patel/EV_Sales_PowerBI_Project/blob/main/Dax%20Notes.txt)
+- DAX Measures: (https://github.com/Mrsarthk-patel/EV_Sales_PowerBI_Project/blob/main/Dax%20Notes.txt)
 
- [Dashboard File (.pbix)] (https://github.com/Mrsarthk-patel/EV_Sales_PowerBI_Project/blob/main/Electric-Vehicle_Sales_Advance_Analysis.pbix)
+ - Dashboard File (.pbix): (https://github.com/Mrsarthk-patel/EV_Sales_PowerBI_Project/blob/main/Electric-Vehicle_Sales_Advance_Analysis.pbix)
 
-[Dashboard Image] (https://github.com/Mrsarthk-patel/EV_Sales_PowerBI_Project/blob/main/Dashboard_image.png)
+- Dashboard Image: (https://github.com/Mrsarthk-patel/EV_Sales_PowerBI_Project/blob/main/Dashboard_image.png)
 
 **Data:** 
 1. https://github.com/Mrsarthk-patel/EV_Sales_PowerBI_Project/blob/main/EV%20Sales%20By%20Makers.xlsx
