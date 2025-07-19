@@ -1,5 +1,4 @@
 # 🚗 EV Sales Power BI Project
-
 This Power BI dashboard presents a comprehensive analysis of **Electric Vehicle (EV)** sales across different makers and time periods — 2022, 2023 & 2024.  
 It includes sales volume, revenue distribution between 2-wheelers and 4-wheelers, market share, growth trends, and **CAGR by manufacturer**.  
 The purpose is to provide actionable insights into India’s rapidly evolving EV industry using **interactive visuals and DAX calculations**.
